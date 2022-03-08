@@ -1,0 +1,58 @@
+ol{
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ul{
+    font-weight: normal;
+}
+.bol{
+    list-style-image: url(icon/icons8-футбольный-мяч-16.png);
+}
+#polsha{
+    list-style-image: url(icon/icons8-польша-16.png);
+}
+#rossiya{
+    list-style-image: url(icon/icons8-россия-16.png);
+}
+#chehiya{
+    list-style-image: url(icon/icons8-чехия-16.png);
+}
+#greciya{
+    list-style-image: url(icon/icons8-греция-16.png);
+}
+#germaniya{
+    list-style-image: url(icon/icons8-германия-16.png);
+}
+#nider{
+    list-style-image: url(icon/icons8-нидерланды-16.png);
+}
+#portug{
+    list-style-image: url(icon/icons8-португалия-16.png);
+}
+#daniya{
+    list-style-image: url(icon/icons8-дания-16.png);
+}
+#ispaniya{
+    list-style-image: url(icon/icons8-испания-16.png);
+}
+#italiya{
+    list-style-image: url(icon/icons8-италия-16.png);
+}
+#xorvatiya{
+    list-style-image: url(icon/icons8-хорватия-16.png);
+}
+#irlandiya{
+    list-style-image: url(icon/icons8-ирландия-16.png);
+}
+#ukraina{
+    list-style-image: url(icon/icons8-украина-16.png);
+}
+#angliya{
+    list-style-image: url(icon/icons8-англия-16.png);
+}
+#franciya{
+    list-style-image: url(icon/icons8-франция-16.png);
+}
+#shveciya{
+    list-style-image: url(icon/icons8-швеция-16.png);
+}
